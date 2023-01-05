@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 44cc9b30242f23d4c869153f8bbb8bb1
+timeCreated: 1495188820
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AR BLANCA
+  fontNames:
+  - AR BLANCA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

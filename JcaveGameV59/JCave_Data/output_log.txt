@@ -1,0 +1,91 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920M (ID=0x1299)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.280 seconds
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'RestartScreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'DeletePlayerScreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'CarryAngle') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'ExitScreen') is missing!
+ 
+(Filename:  Line: 1743)
+
+UnloadTime: 275.721985 ms
+NuiInitialize Failed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulating Assets/Recordings/playback0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\System.Data.dll (this message is harmless)
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\Mono.Data.Tds.dll (this message is harmless)
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: C:\Users\sm_st\Downloads\JcaveGameV49\JcaveGameV49\JcaveGameV48\JcaveGameV46\JCave_Data\Managed\Mono.Security.dll (this message is harmless)
+NotSupportedException: CodePage 1252 not supported
+  at System.Text.Encoding.GetEncoding (Int32 codepage) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Tds.TdsCharset.GetEncodingFromSortOrder (Int32 sortId) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Tds.TdsCharset.GetEncodingFromSortOrder (System.Byte[] collation) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Tds.TdsCharset.GetEncoding (System.Byte[] collation) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Tds.Protocol.Tds.ProcessEnvironmentChange () [0x00000] in <filename unknown>:0 
+  at Mono.Data.Tds.Protocol.Tds.ProcessSubPacket () [0x00000] in <filename unknown>:0 
+  at Mono.Data.Tds.Protocol.Tds.NextResult () [0x00000] in <filename unknown>:0 
+  at Mono.Data.Tds.Protocol.Tds.SkipToEnd () [0x00000] in <filename unknown>:0 
+  at Mono.Data.Tds.Protocol.Tds70.Connect (Mono.Data.Tds.Protocol.TdsConnectionParameters connectionParameters) [0x00000] in <filename unknown>:0 
+  at Mono.Data.Tds.Protocol.Tds80.Connect (Mono.Data.Tds.Protocol.TdsConnectionParameters connectionParameters) [0x00000] in <filename unknown>:0 
+  at System.Data.SqlClient.SqlConnection.Open () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2b7c -> priority: 1 
+  Thread -> id: 3f4 -> priority: 1 
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ges start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Startj
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
