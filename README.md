@@ -1,6 +1,6 @@
 ## Publication
 
-The International Journal of Multimedia & Its Applications 2019
+The International Journal of Multimedia & Its Applications
 
 https://aircconline.com/ijma/V11N2/11219ijma01.pdf
 
